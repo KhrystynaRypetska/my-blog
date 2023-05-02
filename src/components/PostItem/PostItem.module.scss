@@ -1,0 +1,26 @@
+.postItem {
+  text-align: center;
+  padding: 15px;
+  margin: 25px auto;
+  max-width: 50%;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  background-color: white;
+}
+
+small {
+  color: rgba(255, 0, 0, 0.63);
+}
+
+h2 {
+  text-transform: uppercase;
+}
+
+h3 {
+  font-style: italic;
+  color: purple;
+}
+
+p {
+  text-align: left;
+}

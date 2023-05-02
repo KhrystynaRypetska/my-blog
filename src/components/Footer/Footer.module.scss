@@ -1,0 +1,30 @@
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+  background-color: #1ab1b1;
+  padding: 20px;
+}
+
+h4 {
+  margin: 30px;
+}
+
+.navList {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.navList ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style-type: none;
+  color: #fff;
+}
+
+.navList ul > li {
+  padding: 5px 0;
+  margin: 0 10px;
+}

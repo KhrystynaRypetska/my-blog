@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: purple;
+  padding: 20px;
+}
+
+.navList {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.navList ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style-type: none;
+  color: #fff;
+}
+
+.navList ul > li {
+  padding: 5px 0;
+  margin: 0 10px;
+}
